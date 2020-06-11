@@ -2,7 +2,7 @@
 SimAr Humanoid Robot  
 BY GAURAV KUMAR (TECHEONICS)
 
-
+Projects files are going to Open Soures soon..............
 
 
 www.techeonics.com
